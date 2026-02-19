@@ -49,6 +49,24 @@ Ryzyko kadrowe to każde zachowanie pracownika, które:
 ## 1.3. Fundament etyczny  
 LLM musi chronić **oba pola** — nie tylko jedno.
 
+## 1.4. Porównanie nadużyć pracowniczych: CEJSH vs USA vs Polska
+
+## Tabela porównawcza: CEJSH (USA – analiza naukowa) vs USA (2024–2025) vs Polska (2024–2025)
+
+| Obszar | CEJSH – USA (analiza naukowa, skandale korporacyjne) | USA 2024–2025 (dane bieżące) | Polska 2024–2025 |
+|--------|--------------------------------------------------------|-------------------------------|-------------------|
+| **Charakter zjawiska** | Przestępczość korporacyjna jako zjawisko systemowe, zakorzenione strukturalnie | Nadużycia stanowiska, bullying, insider fraud, korupcja | Nadużycia finansowe, korupcja, niegospodarność, wycieki danych |
+| **Główni sprawcy** | Menedżerowie wyższego szczebla (Enron, KPMG, Madoff) | Insiderzy: **60%** oszustw popełniają pracownicy | Pracownicy działów zakupów, księgowości, administracji |
+| **Skala strat** | Miliardy USD (Enron, Madoff) | Firmy tracą **5% przychodów rocznie**; straty z fraudów zatrudnieniowych: **500 mln USD** | Brak pełnych danych; straty znaczne, szczególnie w sektorze publicznym |
+| **Częstość występowania** | Skandale cykliczne, powtarzalne | **32%** pracowników doświadczyło nadużyć; zgłoszenia +50% r/r | **36%** firm padło ofiarą nadużyć w 24 miesiące |
+| **Rodzaje nadużyć** | Fałszowanie sprawozdań, manipulacje księgowe, ukrywanie strat | Bullying, dyskryminacja, insider fraud, korupcja | Nadużycia zakupowe (29%), księgowe (29%), korupcja (16%) |
+| **Mechanizmy umożliwiające** | Asymetria informacji, słaby nadzór, konflikt interesów | Słabe kontrole: **76%** przypadków | Kontrole okresowe, tylko **5,7%** bieżących kontroli |
+| **Mechanizmy wykrywania** | Audyty po fakcie, sygnaliści | Sygnaliści: **43%** wykryć | Audyty, kontrole, sygnaliści (słabo chronieni) |
+| **Ryzyka społeczne** | Utrata zaufania do instytucji, destabilizacja rynku | 72% pracowników świadomych nękania; 50% widziało nadużycia zdalnie | Wysokie ryzyko korupcji i niegospodarności w sektorze publicznym |
+| **Wnioski systemowe** | Potrzeba automatycznej detekcji i prewencji | Rosnąca potrzeba EWS i compliance AI | Krytyczna potrzeba automatyzacji kontroli i audytu |
+| **Wspólny mianownik** | **Czyn pracownika** jako źródło nadużycia | **Czyn pracownika** jako źródło nadużycia | **Czyn pracownika** jako źródło nadużycia |
+
+
 ---
 
 # 2. Warstwa Kulturowa (C)
