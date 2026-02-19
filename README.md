@@ -9,11 +9,11 @@ Repozytorium integruje wcześniejsze prace nad *ramorga‑prototype* oraz *copil
 
 Celem MWA jest tworzenie systemów, które:
 
-- nie wykluczają,
-- nie dominują,
-- nie podnoszą entropii użytkownika,
-- wspierają regulację poznawczą i sensoryczną,
-- respektują ograniczenia i różnorodność użytkowników,
+- nie wykluczają,  
+- nie dominują,  
+- nie podnoszą entropii użytkownika,  
+- wspierają regulację poznawczą i sensoryczną,  
+- respektują ograniczenia i różnorodność użytkowników,  
 - działają w sposób relacyjny, przewidywalny i nisko‑przemocowy.
 
 ---
@@ -23,7 +23,7 @@ Celem MWA jest tworzenie systemów, które:
 MWA składa się z pięciu warstw:
 
 ### **1. Fundament (F)**
-Mechanizmy bazowe: brak mea culpa, entropia społeczna, strukturalne ograniczenia Homo sapiens.
+Mechanizmy bazowe: brak mea culpa, entropia społeczna, strukturalne ograniczenia Homo sapiens, dwupolowa architektura etyczna (pole pracownika / pole pracodawcy).
 
 ### **2. Warstwa kulturowa (C)**
 Modele kulturowe, normy nieagresji, architektury przemocy oraz architektury wykluczenia (seniorzy, osoby zależne, deficyty poznawcze, wykluczenie cyfrowe).
@@ -48,6 +48,23 @@ Pierwszym i centralnym dokumentem repozytorium jest:
 
 ---
 
+## Katalog **/cases**
+
+Katalog **/cases** zawiera moduły analityczne pokazujące, jak MWA działa w praktyce — w sytuacjach ryzyka, konfliktów pól, nadużyć pracowniczych i menedżerskich oraz w kontekstach wymagających ochrony zarówno **pola pracownika**, jak i **pola pracodawcy**.
+
+Moduły obejmują m.in.:
+
+- **dwupolową architekturę etyczną**,  
+- **nadużycia pracownicze i BHP cyfrowe**,  
+- **strażnika kosztów**,  
+- **audyt zgodności**,  
+- **ryzyka kadrowe (PL + USA + CEJSH)**,  
+- **systemy wczesnego ostrzegania (EWS)**.
+
+Katalog pełni funkcję **atlasu ryzyk** i **architektury ochronnej** dla organizacji pracujących z LLM.
+
+---
+
 ## Status prac
 
 Repozytorium jest w fazie koncepcyjnej i porządkującej.  
@@ -58,4 +75,3 @@ Kolejne moduły będą rozwijane iteracyjnie w ramach struktury katalogów.
 ## Licencja
 
 CC‑BY 4.0 — repozytorium może być cytowane i wykorzystywane z podaniem autorstwa.
-
